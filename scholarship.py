@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "Bearer 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" #perplexity API key
+API_KEY = "" #perplexity API key
 def get_user_details():
     print("Please enter your details below.")
     citizenship = input("Country of citizenship: ")
